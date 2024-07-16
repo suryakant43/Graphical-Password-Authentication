@@ -2,7 +2,7 @@
  Remembering numerous passwords from various different sites can be difficult for a user. So to provide some flexibility we can provide users a graphical password authentication system where instead of creating a password a user has to select graphical objects in a particular order to keep it as their password
 
 Resistance to Popular Attacks
-# Bruteforce
+## Bruteforce
 After reaching max tries, the user will be notified via message through email. And the further authentication through the generic URL/website is disabled for that user account, instead, they have to use the link that will be sent by the company in the notification email. This also lets the legitimate user know about the adversary.
 
 # Shoulder Surfing
